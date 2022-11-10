@@ -1,0 +1,16 @@
+{
+    "aboutme.title" : "Sobre Mi",
+    "expirience.title" : "Experiencia",
+    "contact.title" : "Contacto",
+    "aboutme.description" : " Soy una persona joven y con ansias de adquirir experiencia en el mundo IT. Estoy en busca de un lugar donde crecer y desarrollarme tanto como programador como persona, agregando valor y al mismo tiempo con entuciasmo de seguir aprendiendo y sumar nuevas tecnologias a mi repertorio. Me considero una persona detallista y persistente siempre en busca de aprendrender  a resolver cualquier probalema con el que me encuentre asi como resolutiva y confiable. Curioso por naturaleza me considero una persona autodidacta y siempre en busca de expandir mis conocimientos. ",
+    "expirience.description" : " Inicie mis estudios en CODER-HOUSE realizando un curso sobre la libreria de React.js, donde realizamos un E-commerce y abarcamos temas como creacion basica de componentes, Hooks, promesas, Async Await, react-router-dom, manejo de eventos, Context, con la utilizacion de la base de datos Firebase II .Encantado con el curso inicie estudios por cuenta propia al punto de ingresar al mercado labolar con GLOBANT durante un año me desempeñe en el puesto de Front-end developer utilizando React, mis tareas consistian en: Realizar formularios con la libreria de Formik, comunicacion con APIS utilizando axios y la creacion de algunos componentes. ",
+    "proyects.description" : "ESPAÑOL EXPLICA",
+    "skills.title" : "Tecnologías y Habilidades",
+    "proyects.title" : "Proyectos",
+    "about.cv" : "Descargar Currículum",
+    "certificate" : "Descargar Certificado",
+    "LetsTalk" : " Contactame ",
+    "form_name" : "Nombre",
+    "form_text" : "En que estas pensando...",
+    "send.form" : "Enviar"
+}
