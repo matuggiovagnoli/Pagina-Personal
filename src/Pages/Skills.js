@@ -3,14 +3,15 @@ import { img } from "../assets/img";
 import { motion, useAnimationControls, useInView  } from "framer-motion";
 import { FormattedMessage } from "react-intl";
 
-function Skills() {
 
+function Skills() {
+  
   const ref = useRef(null)
   const isInView = useInView(ref , { once: true })
-
+  
   // Controlamos el tiempo que demora cada icono en iniciar animcaion
   const controlIcons = useAnimationControls();
-
+  
   useEffect(() => {
     controlIcons.start((i) => ({
       y: [-200, 0],
@@ -22,6 +23,7 @@ function Skills() {
         delay: i * 0.6,
       },
     }));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   },[isInView]);
 
   return (
