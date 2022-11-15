@@ -4,7 +4,7 @@
     "aboutme.title" : "About me",
     "expirience.title" : "Experience",
     "contact.title" : "Get in touch",
-    "aboutme.description" : " I am young and craving for expirience in IT. I'm looking for a job where I can grow as a person and as a professional adding value to my work, at the same time looking foward to learn moer technologies to add at my portfolio. If I have to describe my self I am a detail person always serching for better results and persistent at the time to solve problems, and with time show that I'm trustworthy and a hard-worker. ",
+    "aboutme.description" : " I am young and craving for experience in IT. I'm looking for a job where I can grow as a person and as a professional adding value to my work, at the same time looking forward to learn more technologies to add at my portfolio. If I have to describe myself I am a detail person always searching for better results and persistent at the time to solve problems, and with time show that I'm trustworthy and a hard-worker. ",
     "expirience.description" : " I started studing in CODERHOUSE, the course I selected was Reajc.js, there we made a E-commerce and learn basic concepts of React as creating functional components, Hooks, promises, Async Await, react-router-dom for routing, event handlers, Context and we implement Firebase II database. As the classes were progressing I realice that this was for me so I started to study other technologies by my self and eventually  looking for a job. I started working at GLOBANT as a Front-End developer in React proyects, my tasks were makirng  forms whith Formik and connecting them to the back-end with axios, made a few components managing states whith Redux, context or both.  ",
     "proyects.description" : "INGLES EXPLICA",
     "skills.title" : "Technologies and Skills",
@@ -13,5 +13,6 @@
     "certificate" : "Download Certificate",
     "LetsTalk" : " Let's Talk... ",
     "form_name" : "Name",
-    "form_text" : "Tell me about it"
+    "form_text" : "Tell me about it",
+    "send.form" : "Send"
 }

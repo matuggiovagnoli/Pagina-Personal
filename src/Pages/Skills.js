@@ -158,7 +158,7 @@ function Skills() {
           <FormattedMessage id="skills.title" />
         </h2>
         <img
-          className="row-span-5 w-[28rem] h-[28rem] 2xl:w-[40rem] 2xl:h-[40rem] self-start rounded-full mt-14"
+          className="row-span-5 w-[28rem] h-[28rem] 2xl:w-[35rem] 2xl:h-[35rem] self-start rounded-full mt-14"
           src={img.coding}
           alt="Coding img"
         />

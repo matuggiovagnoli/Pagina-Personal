@@ -37,7 +37,7 @@ const Landing = () => {
           onClick={() => dispatch(idiomaIngles())}
         />
       </div>
-      <p className="absolute top-[45%] font-serif font-medium text-3xl md:text-4xl text-white">
+      <p className="absolute top-[45%] font-serif font-medium text-3xl md:text-5xl text-white bg-black/40">
         MATIAS DANIEL GOMEZ GIOVAGNOLI
       </p>
       <div className="absolute bottom-10">
