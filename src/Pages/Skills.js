@@ -23,8 +23,7 @@ function Skills() {
         delay: i * 0.6,
       },
     }));
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  },[isInView]);
+  },[isInView,controlIcons]);
 
   return (
     <section className="relative w-full h-screen bg-[#0D070F] grid grid-cols-3" >
