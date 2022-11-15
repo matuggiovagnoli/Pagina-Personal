@@ -20,7 +20,7 @@ const Landing = () => {
       />
       <img
         src={img.retrato}
-        className="absolute bottom-32 2xl:bottom-52 bg-slate-300 border-solid border-4 border-slate-300 rounded-full w-48 h-48 2xl:w-56 2xl:h-56 z-10 "
+        className="absolute bottom-32 2xl:bottom-44 bg-slate-300 border-solid border-4 border-slate-300 rounded-full w-48 h-48 2xl:w-56 2xl:h-56 z-10 "
         alt="imagen de portada"
       />
       <div className="absolute top-3 right-4 py-2">
