@@ -38,7 +38,7 @@ const Aboutme = () => {
   };
 
   return (
-    <section className="w-full h-screen bg-[#0D070F] grid grid-cols-2 content-center place-content-center sm:flex sm:flex-col">
+    <section className="w-full h-screen bg-[#0D070F] grid grid-cols-2 content-center place-content-center">
       <div className="w-[35rem] max-h-full bg-[#0D070F] p-5 mx-auto relative z-10">
         <span className="absolute -top-3 -left-3 w-40 h-40 bg-transparent border-solid border-t-4 border-l-4 border-white"></span>
         <span className="absolute -bottom-3 -right-3 w-40 h-40 bg-transparent border-solid border-b-4 border-r-4 border-white"></span>
