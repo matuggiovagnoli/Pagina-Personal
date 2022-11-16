@@ -38,7 +38,7 @@ const Aboutme = () => {
   };
 
   return (
-    <section className="w-full h-screen bg-[#0D070F] grid grid-cols-2 content-center place-content-center">
+    <section className="w-full h-screen bg-[#0D070F] grid grid-cols-2 content-center place-content-center ">
       <div className="w-full h-full  flex flex-col justify-start " ref={ref}>
         <img
           className="w-48 h-48 2xl:w-80 2xl:h-80 -left-5 rounded-full bg-transparent mx-auto mt-10"
